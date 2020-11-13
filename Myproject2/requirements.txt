@@ -1,2 +1,2 @@
 zhconv==1.4.0
-tensorflow-gpu==2.0.0
+tensorflow-gpu==2.3.1
